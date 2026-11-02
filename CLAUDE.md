@@ -76,10 +76,10 @@ in particular has been removed and reinstated once already, on purpose both time
 ## Status
 
 **Published 2026-09-07** under CERN-OHL-S v2 as
-`dcvappliedtechnologyllc/PUBLIC` (public). The working tree — `CURRENT/` with
+`dcvappliedtechnologyllc/doyle-vee-jaws` (public). The working tree — `CURRENT/` with
 the private branded jaws, the art SVGs and the PMAG source block, plus `_old/`
 with every prior rev — lives separately in
-`dcvappliedtechnologyllc/PRIVATE`.
+`dcvappliedtechnologyllc/doyle-vee-jaws-private`.
 
 **The two trees are not the same repo, and that separation is the point.**
 Nothing matching `DCV_movable`, `DCV_fixed`, `art_text*`, `art_logo_45` or
